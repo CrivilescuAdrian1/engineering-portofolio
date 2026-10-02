@@ -36,8 +36,12 @@ The arm has the joint sequence Ry(q1) - Tx(l1) - Rx(q2) - Tz(l2). The work build
 *End-effector trajectory and joint velocities*
 
 <!-- Image 3: Simulink diagram plus a torque plot. Save as images/03-simulink-torque.png -->
-![Simulink model and torque curves](images/03-simulink-torque.png)
-*Simulink model and torque curves*
+![Simulink model](images/03.1-simulink.png)
+*Simulink model*
+
+<!-- Image 3: Simulink diagram plus a torque plot. Save as images/03-simulink-torque.png -->
+![Torque curves](images/03.2-torque.png)
+*Torque curves*
 
 ## Files
 
