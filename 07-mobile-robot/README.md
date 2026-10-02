@@ -29,16 +29,22 @@ The project has two parts. First, the robot follows a fixed trapezoid path from 
 ## Images
 
 <!-- Image 1: Photo of the robot from above. Save as images/01-robot.png -->
-![The assembled robot](images/01-robot.png)
-*The assembled robot*
+<p align="center">
+  <img src="images/01-robot.png" alt="The assembled robot" width="600"><br>
+  <em>The assembled robot</em>
+</p>
 
 <!-- Image 2: Screenshot with a drawn path and the preview of exported points. Save as images/02-gui.png -->
-![The trajectory GUI](images/02-gui.png)
-*The trajectory GUI*
+<p align="center">
+  <img src="images/02-gui.png" alt="The trajectory GUI" width="600"><br>
+  <em>The trajectory GUI</em>
+</p>
 
 <!-- Image 3: Photo or collage of the start, middle and end positions. Save as images/03-execution.png -->
-![Execution of a trajectory](images/03-execution.png)
-*Execution of a trajectory*
+<p align="center">
+  <img src="images/03-execution.png" alt="Execution of a trajectory" width="600"><br>
+  <em>Execution of a trajectory</em>
+</p>
 
 ## Files
 
