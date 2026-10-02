@@ -65,7 +65,7 @@ The goal was to design a fixed manipulator that carries a steel part from one po
 </p>
 ## Files
 
-- [Technical report (PDF)](./technical-report-robotic-manipulator.pdf)
+- [Technical report (PDF)](technical-report-robotic-manipulator.pdf)
 
 ## Notes
 
