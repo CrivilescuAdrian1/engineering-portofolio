@@ -28,16 +28,23 @@ The assignment was to build a robot model with at least 10 components, of which 
 ## Images
 
 <!-- Image 1: Screenshot with the robot visible. Save as images/01-rviz-arm.png -->
-![The arm in RViz2](images/01-rviz-arm.png)
-*The arm in RViz2*
+<p align="center">
+  <img src="images/01-rviz-arm.png" alt="The arm in RViz2" width="600"><br>
+  <em>The arm in RViz2</em>
+</p>
 
 <!-- Image 2: Screenshot of the Joint State Publisher window. Save as images/02-sliders.png -->
-![Joint sliders (URDF check)](images/02-sliders.png)
-*Joint sliders (URDF check)*
+<p align="center">
+  <img src="images/02-sliders.png" alt="Joint sliders (URDF check)" width="600"><br>
+  <em>Joint sliders (URDF check)</em>
+</p>
 
 <!-- Image 3: Terminal showing the published joint positions. Save as images/03-launch-output.png -->
-![Launch output](images/03-launch-output.png)
-*Launch output*
+<p align="center">
+  <img src="images/03-launch-output.png" alt="Launch output" width="600"><br>
+  <em>Launch output</em>
+</p>
+
 
 ## Files
 
