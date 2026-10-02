@@ -37,8 +37,8 @@ A hydraulic cylinder had to move a mass along a 45° inclined direction. The wor
 *Section view of the assembly*
 
 <!-- Image 3: A single part drawing. Save as images/03-bushing.png -->
-![Front or rear bushing drawing](images/03-bushing.png)
-*Front or rear bushing drawing*
+![Front bushing drawing](images/03-bushing.png)
+*Front bushing drawing*
 
 ## Files
 
