@@ -63,6 +63,7 @@ The goal was to design a fixed manipulator that carries a steel part from one po
   <img src="images/04.2-plot-translation.png" alt="Force/Torque plot for translation" width="600"><br>
   <em>Force/Torque plot for translation</em>
 </p>
+
 ## Files
 
 - [Technical report (PDF)](technical-report-robotic-manipulator.pdf)
