@@ -28,20 +28,28 @@ The arm has the joint sequence Ry(q1) - Tx(l1) - Rx(q2) - Tz(l2). The work build
 ## Images
 
 <!-- Image 1: 3D plot of the arm in the initial position. Save as images/01-geometric-model.png -->
-![Geometric model in MATLAB](images/01-geometric-model.png)
-*Geometric model in MATLAB*
+<p align="center">
+  <img src="images/01-geometric-model.png" alt="Geometric model in MATLAB" width="600"><br>
+  <em>Geometric model in MATLAB</em>
+</p>
 
 <!-- Image 2: Plot of the trajectory and one velocity graph. Save as images/02-kinematics.png -->
-![End-effector trajectory and joint velocities](images/02-kinematics.png)
-*End-effector trajectory and joint velocities*
+<p align="center">
+  <img src="images/02-kinematics.png" alt="End-effector trajectory and joint velocities" width="600"><br>
+  <em>End-effector trajectory and joint velocities</em>
+</p>
 
-<!-- Image 3: Simulink diagram plus a torque plot. Save as images/03-simulink-torque.png -->
-![Simulink model](images/03.1-simulink.png)
-*Simulink model*
+<!-- Image 3: Simulink diagram. Save as images/03.1-simulink.png -->
+<p align="center">
+  <img src="images/03.1-simulink.png" alt="Simulink model" width="600"><br>
+  <em>Simulink model</em>
+</p>
 
-<!-- Image 3: Simulink diagram plus a torque plot. Save as images/03-simulink-torque.png -->
-![Torque curves](images/03.2-torque.png)
-*Torque curves*
+<!-- Image 4: Torque plot. Save as images/03.2-torque.png -->
+<p align="center">
+  <img src="images/03.2-torque.png" alt="Torque curves" width="600"><br>
+  <em>Torque curves</em>
+</p>
 
 ## Files
 
