@@ -29,16 +29,22 @@ A hydraulic cylinder had to move a mass along a 45° inclined direction. The wor
 ## Images
 
 <!-- Image 1: Render of the moving core. Save as images/01-piston-rod.png -->
-![Piston and rod assembly in CATIA V5](images/01-piston-rod.png)
-*Piston and rod assembly in CATIA V5*
+<p align="center">
+  <img src="images/01-piston-rod.png" alt="Piston and rod assembly in CATIA V5" width="600"><br>
+  <em>Piston and rod assembly in CATIA V5</em>
+</p>
 
 <!-- Image 2: Section through the piston and seals. Save as images/02-section.png -->
-![Section view of the assembly](images/02-section.png)
-*Section view of the assembly*
+<p align="center">
+  <img src="images/02-section-z.png" alt="Section view of the assembly" width="600"><br>
+  <em>Section view of the assembly</em>
+</p>
 
 <!-- Image 3: A single part drawing. Save as images/03-bushing.png -->
-![Front bushing drawing](images/03-bushing.png)
-*Front bushing drawing*
+<p align="center">
+  <img src="images/03-bushing.png" alt="Front bushing drawing" width="600"><br>
+  <em>Front bushing drawing</em>
+</p>
 
 ## Files
 
