@@ -29,29 +29,40 @@ The goal was to design a fixed manipulator that carries a steel part from one po
 ## Images
 
 <!-- Image 1: Full assembly render, isometric view. -->
-![3D model of the complete manipulator in CATIA V5](images/01-overview-catia.png)
-*3D model of the complete manipulator in CATIA V5*
+<p align="center">
+  <img src="images/01-overview-catia.png" alt="3D model of the complete manipulator in CATIA V5" width="600"><br>
+  <em>3D model of the complete manipulator in CATIA V5</em>
+</p>
 
 <!-- Image 2: Close-up of rotation module -->
-![Detail of the rotation module](images/02.1-module-detail-rotation.png)
-*Detail of rotation module*
+<p align="center">
+  <img src="images/02.1-module-detail-rotation.png" alt="Detail of the rotation module" width="600"><br>
+  <em>Detail of rotation module</em>
+</p>
 
 <!-- Image 3: Close-up of translation module -->
-![Detail of the translation module](images/02.2-module-detail-translation.png)
-*Detail of the translation module*
+<p align="center">
+  <img src="images/02.2-module-detail-translation.png" alt="Detail of the translation module" width="600"><br>
+  <em>Detail of the translation module</em>
+</p>
 
 <!-- Image 4: Screenshot of the simulation -->
-![Simulation](images/03-simulation.png)
-*Simulation*
+<p align="center">
+  <img src="images/03-simulation.png" alt="Simulation" width="600"><br>
+  <em>Simulation</em>
+</p>
 
 <!-- Image 5: Screenshot of torque/force plot for rotation -->
-![Force/Torque plot for rotation](images/04.1-plot-rotation.png)
-*Force/Torque plot for rotation*
+<p align="center">
+  <img src="images/04.1-plot-rotation.png" alt="Force/Torque plot for rotation" width="600"><br>
+  <em>Force/Torque plot for rotation</em>
+</p>
 
-<!-- Image 6: Screenshot of torque/force plot for rotation -->
-![Force/Torque plot for translation](images/04.1-plot-translation.png)
-*Force/Torque plot for translation*
-
+<!-- Image 6: Screenshot of torque/force plot for translation -->
+<p align="center">
+  <img src="images/04.2-plot-translation.png" alt="Force/Torque plot for translation" width="600"><br>
+  <em>Force/Torque plot for translation</em>
+</p>
 ## Files
 
 - [Technical report (PDF)](./technical-report-robotic-manipulator.pdf)
