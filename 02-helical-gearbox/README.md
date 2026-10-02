@@ -30,16 +30,22 @@ The gearbox transmits a given power between an input and an output shaft at a fi
 ## Images
 
 <!-- Image 1: Isometric render of the assembly. Save as images/01-assembly.png -->
-![Gearbox assembly in CATIA V5](images/01-assembly.png)
-*Gearbox assembly in CATIA V5*
+<p align="center">
+  <img src="images/01-assembly.png" alt="Gearbox assembly in CATIA V5" width="600"><br>
+  <em>Gearbox assembly in CATIA V5</em>
+</p>
 
 <!-- Image 2: One drawing sheet or a cross-section of the assembly. Save as images/02-drawing.png -->
-![Sectioned view or workshop drawing](images/02-drawing.png)
-*Sectioned view or workshop drawing*
+<p align="center">
+  <img src="images/02-drawing.png" alt="Sectioned view or workshop drawing" width="600"><br>
+  <em>Sectioned view or workshop drawing</em>
+</p>
 
 <!-- Image 3: Screenshot of safety factors or the shaft diagram. Save as images/03-mdesign.png -->
-![Shaft verification output from MDESIGN](images/03-mdesign.png)
-*Shaft verification output from MDESIGN*
+<p align="center">
+  <img src="images/03-mdesign.png" alt="Shaft verification output from MDESIGN" width="600"><br>
+  <em>Shaft verification output from MDESIGN</em>
+</p>
 
 ## Files
 
