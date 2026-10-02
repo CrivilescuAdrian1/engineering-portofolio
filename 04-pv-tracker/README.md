@@ -28,16 +28,22 @@ The mechanism tilts a PV module between two limit angles using a linear actuator
 ## Images
 
 <!-- Image 1: Sketch of 0°, +60° and -65°. Save as images/01-positions.png -->
-![Mechanism in the three positions (CATIA V5)](images/01-positions.png)
-*Mechanism in the three positions (CATIA V5)*
+<p align="center">
+  <img src="images/01-positions.png" alt="Mechanism in the three positions (CATIA V5)" width="600"><br>
+  <em>Mechanism in the three positions (CATIA V5)</em>
+</p>
 
 <!-- Image 2: Screenshot of the mechanism with joints. Save as images/02-adams-model.png -->
-![Adams View model](images/02-adams-model.png)
-*Adams View model*
+<p align="center">
+  <img src="images/02-adams-model.png" alt="Adams View model" width="600"><br>
+  <em>Adams View model</em>
+</p>
 
 <!-- Image 3: Actuator stroke plot or the model at the end angles. Save as images/03-simulation.png -->
-![Simulation result](images/03-simulation.png)
-*Simulation result*
+<p align="center">
+  <img src="images/03-simulation.png" alt="Simulation result" width="600"><br>
+  <em>Simulation result</em>
+</p>
 
 ## Files
 
